@@ -1,0 +1,111 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+
+#logo{
+    height: 150px;
+}
+
+header{
+    background-color:#c93524;
+    padding: 20px 0;
+}
+
+.caixa{
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+
+nav{
+    color:cadetblue;
+    position: absolute;
+    top: 50px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+
+nav a:hover{
+color:darkorange;
+}
+
+
+
+
+
+
+
+
+main{
+    margin-top: 50px;
+}
+
+
+.itens{
+    height: 150px;
+}
+
+.produtos{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    padding: 5px;
+    margin: 0 1.5%;
+    padding: 30 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.produtos li:hover{
+    border: 2px solid darkorange;
+    border-radius: 13px;
+}
+
+.produtos li:hover{
+    border: 2px solid darkorange;
+    border-radius: 13px;
+}
+
+.produtos li:hover h2{
+    font-size: 30px;
+}
+
+
+.produtos h2{
+    color:rebeccapurple;
+}
+
+
+
+
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#logofim{
+    height: 50px;
+}
