@@ -1,17 +1,17 @@
 # Formulário HTML / CSS / JS
+
 ### Em planejamento...
 
 ##### Sobre o projeto
-
-Um site em HTML feito para praticar alguns componentes nativos, google maps, vídeo, imagem, texto, input e etc.
+Um site em HTML feito para praticar alguns componentes nativos, Google maps, vídeo, imagem, texto, input e etc.
 
 ##### Bibliotecas e tecnologias utilizadas:
 - HTML
 - CSS
 - Js
 
-##### Inciar o projeto:
-- Execulte o arquivo `index.html`
+##### Iniciar o projeto:
+- Execute o arquivo `index.html`
 
 
 ### Obs:
